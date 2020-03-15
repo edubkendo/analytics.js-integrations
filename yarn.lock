@@ -1431,10 +1431,10 @@
     component-cookie "^1.1.2"
     component-url "^0.2.1"
 
-"@segment/tracktor@0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@segment/tracktor/-/tracktor-0.8.1.tgz#548a13e73087cbbf6f692e49389b70fad07a95be"
-  integrity sha512-0k3fOGyx6RexCgE9adYBYBoAXJUndGsIpPiVLDOewnZ0xnoR8ZL0aDr7Z5pz/bcVGR5RhjEm5aslWNNOSM6EhA==
+"@segment/tracktor@0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@segment/tracktor/-/tracktor-0.11.0.tgz#05ecf1d2accb439db8bac00fb5a8e7eff8e2b1c8"
+  integrity sha512-88zAojiPR6F+KO/6eYHcPLTnTVEgove1yKBNnJDYwo5ehGvNPaIdj6f0ukWV+QBlzql3oXLrpzfKFD1j90b9JA==
   dependencies:
     element-matches-polyfill "^1.0.0"
     whatwg-fetch "^3.0.0"
@@ -1538,9 +1538,9 @@ acorn-walk@^6.1.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.2.1:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.7, acorn@^6.1.1:
   version "6.1.1"
